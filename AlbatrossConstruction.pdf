@@ -1,13 +1,12 @@
 \documentclass{article}
 \usepackage[margin=0.5in]{geometry}
-\usepackage{graphicx}
 
 \begin{document}
 \title{Albatross Avionics Build Notes}
 \author{Madison Harrington}
 \maketitle
 
-\section{Propellor and Motor}
+\section{Propellor and Motor} \\
 
 The construction of the Propellor was based on the shared documenation by Applied Aeronautics. They supplied instructive 
 photographs of how it should look. Our kit inclluded more pieces than the applied aeronautics team had, and had one piece entirely missing. 
