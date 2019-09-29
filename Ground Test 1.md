@@ -2,12 +2,12 @@
 
 
 
-|                                  GROUND TEST 1                                        | 
-|Test Date:                          |Environmental conditions:                         |
-|Location:                           |Test system:                                      |
-|Objective:                                                                             |
-|                                                                                       |
-|Objective met?                                                                         |
-|Debrief notes:                                                                         |
-|                                                                                       |
-|---------------------------------------------------------------------------------------|
+|GROUND TEST 1| | |
+| --- | --- | --- |
+|Test Date:                          |Environmental conditions:                         ||
+|Location:                           |Test system:                                      ||
+|Objective:                                                                             ||
+|                                                                                       |||
+|Objective met?                                                                         |||
+|Debrief notes:                                                                         ||
+|                                                                                       |||
