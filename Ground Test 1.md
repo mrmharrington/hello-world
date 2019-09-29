@@ -7,7 +7,6 @@
 |Test Date:                          |Environmental conditions:                         ||
 |Location:                           |Test system:                                      ||
 |Objective:                                                                             ||
-|                                                                                       |||
-|Objective met?                                                                         |||
+|Objective met?                                                                         ||
 |Debrief notes:                                                                         ||
-|                                                                                       |||
+
